@@ -29,6 +29,10 @@ MANIFEST
 # .DS_Store
 .DS_Store
 
+API_practice.ipynb
+
+random_numbers.ipynb
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
