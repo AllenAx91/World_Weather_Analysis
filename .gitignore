@@ -37,14 +37,31 @@ config.py
 
 Google_Nearby_Search.ipynb
 
-Deliverable_1/config.py 
 
-Deliverable_2/config.py 
 
+Weather_Database/config.py 
+
+Vacation_Itinerary/config.py 
+
+Vacation_Search/config.py 
+
+Vacation_Search/hotel_df.csv
+
+Vacation_Itinerary/Vacation_Itinerary_starter_code.ipynb
+
+Vacation_Itinerary/Vacation_Itineraryx.ipynb
+
+Vacation_Itinerary/Ins_Itinerary.ipynb
+
+Vacation_Itinerary/city.csv
 
 WeatherPy.ipynb
 
 VacationPy.ipynb
+
+WeatherPy_vacation.csv
+
+
 
 
 # PyInstaller
